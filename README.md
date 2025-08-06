@@ -19,19 +19,18 @@ Ao iniciar, o CSV Movielist.csv será automaticamente lido e os dados carregados
 
 1. **Clone o repositório**
 
-˜˜˜bash
+
 git clone https://github.com/seu-usuario/golden-raspberry-awards-api.git
 cd golden-raspberry-awards-api
-˜˜˜
+
 
 2. **Instale as dependências**
 
-˜˜˜bash
+
 npm install
-˜˜˜
+
 
 3. **Execute a aplicação**
 
-˜˜bash
+
 npm run start:dev
-˜˜˜
